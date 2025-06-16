@@ -3,8 +3,8 @@ const projects = [
   {
     title: 'Secure FastAPI App',
     description:
-      'FastAPI + AWS Secrets Manager + Redis caching → 40% faster & 30% more secure.',
-    link: 'https://github.com/Ketz7/your-fastapi-repo',
+      'PDF LangChain Parser.',
+    link: 'https://github.com/Ketz7/pdf_langchain_parser',
   },
   {
     title: 'RAG Semantic Search',
