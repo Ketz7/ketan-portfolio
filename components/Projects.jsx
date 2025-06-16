@@ -1,7 +1,7 @@
 // components/Projects.jsx
 const projects = [
   {
-    title: 'Secure FastAPI App',
+    title: 'Pdf Parsing App',
     description:
       'PDF LangChain Parser.',
     link: 'https://github.com/Ketz7/pdf_langchain_parser',
